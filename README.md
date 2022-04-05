@@ -15,7 +15,20 @@
 * [Project#8](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project8_string_methods)
 * [Project#9](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project9_countdown_slideshow)
 * [Project#10](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project10_loops_arrays)
-* [React Projects](https://github.com/DamianH226/JavaScript-Projects/tree/main/React_Projects)\
+* [React Projects](https://github.com/DamianH226/JavaScript-Projects/tree/main/React_Projects)
 
 ### Ajax
+This is how we linked one HTML to another in order to get up to date information from another HTML with the correct data.
+
+### Asnyc
+This makes a function return a Promise. In the case we had to click the alert before it would say "Hello World".
+
+### JQuery
+This is used a JQuery script to make the paragraphs different colors and also to hide the H1 element when clicking paragraph 3.
+
+### JSON
+In this folder we use Parse to convert string to JavaScript object. We also use the stringify to convert the JavaScript objects to string format. Lastley we use local storage to set the data as a key/value pair to be saved locally in my browser, then use the key "Name" to return it's value.
+
+### Project#1 
+
 
