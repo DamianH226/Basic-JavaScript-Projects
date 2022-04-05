@@ -3,4 +3,19 @@
  ## Projects
 * [Ajax](https://github.com/DamianH226/JavaScript-Projects/tree/main/Ajax)
 * [Async](https://github.com/DamianH226/JavaScript-Projects/tree/main/Async)
-* [
+* [JQuery](https://github.com/DamianH226/JavaScript-Projects/tree/main/JQuery)
+* [JSON](https://github.com/DamianH226/JavaScript-Projects/tree/main/JSON)
+* [Project#1](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project1_expressions_alert)
+* [Project#2](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project2_functions)
+* [Project#3](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project3_math_operators)
+* [Project#4](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project4_dictionaries)
+* [Project#5](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project5_comparisons_type_coercion)
+* [Project#6](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project6_ternary_operators_constructors)
+* [Project#7](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project7_scope_time_function)
+* [Project#8](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project8_string_methods)
+* [Project#9](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project9_countdown_slideshow)
+* [Project#10](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project10_loops_arrays)
+* [React Projects](https://github.com/DamianH226/JavaScript-Projects/tree/main/React_Projects)\
+
+### Ajax
+
