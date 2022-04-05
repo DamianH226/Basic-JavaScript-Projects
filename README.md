@@ -59,6 +59,7 @@ This page shows how to do a countdown and how to do a slideshow.
 ### Project#10
 This page shows Loops ans arrays. It shows While loops, For loops, Const, LET and arrays with objects.
 
-### 
+### React Projects
+This page has source code. React #1 shows a timer of how long you have been an the html. React #2 shows a like button and gives a response if liked. React #3 shows a greeting once you enter into the html. React #4 shows  
 
 
