@@ -16,6 +16,7 @@
 * [Project#9](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project9_countdown_slideshow)
 * [Project#10](https://github.com/DamianH226/JavaScript-Projects/tree/main/Project10_loops_arrays)
 * [React Projects](https://github.com/DamianH226/JavaScript-Projects/tree/main/React_Projects)
+* [Projects for Java](https://github.com/DamianH226/JavaScript-Projects/tree/main/Projects%20for%20JavaScript)
 
 ### Ajax
 This is how we linked one HTML to another in order to get up to date information from another HTML with the correct data.
@@ -27,7 +28,7 @@ This makes a function return a Promise. In the case we had to click the alert be
 This is used a JQuery script to make the paragraphs different colors and also to hide the H1 element when clicking paragraph 3.
 
 ### JSON
-In this folder we use Parse to convert string to JavaScript object. We also use the stringify to convert the JavaScript objects to string format. Lastley we use local storage to set the data as a key/value pair to be saved locally in my browser, then use the key "Name" to return it's value.
+In this folder we use Parse to convert string to JavaScript object. We also use the stringify to convert the JavaScript objects to string format. Lastly we use local storage to set the data as a key/value pair to be saved locally in my browser, then use the key "Name" to return it's value.
 
 ### Project#1 
 This page has an expression alert also this is Defining a function and naming it, Defining a variable and giving it a string value and Putting the value of the variable into the HTML elementFromPoint with the "Button_Text" id.
@@ -48,7 +49,7 @@ This page has Coericion, comparisons and type. Shows NaN (not a number) function
 This page has Ternary, operators and constructors. This shows how to get Keyword functions, nested functions and how to get a return input if requirements are met and if they are not met.
 
 ### Project#7
-This page is Scope and Time functions. This shows local and global varibles along with IF and Else statements. Lastely it shows how to get the time in a 24 clock.
+This page is Scope and Time functions. This shows local and global varibles along with IF and Else statements. Lastly it shows how to get the time in a 24 clock.
 
 ### Project#8
 This page shows string methods including Concat Method, Slice Method, Number Method, Toprecision Method.
@@ -60,6 +61,9 @@ This page shows how to do a countdown and how to do a slideshow.
 This page shows Loops ans arrays. It shows While loops, For loops, Const, LET and arrays with objects.
 
 ### React Projects
-This page has source code. React #1 shows a timer of how long you have been an the html. React #2 shows a like button and gives a response if liked. React #3 shows a greeting once you enter into the html. React #4 shows  
+This page has source code. React #1 shows a timer of how long you have been an the html. React #2 shows a like button and gives a response if liked. React #3 shows a greeting once you enter into the html. 
+
+### Projects for JavaScript
+This folder shows the Pizza menu project. This also shows the TicTacToe game and lastly it shows the Calculator project.
 
 
