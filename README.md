@@ -48,5 +48,17 @@ This page has Coericion, comparisons and type. Shows NaN (not a number) function
 This page has Ternary, operators and constructors. This shows how to get Keyword functions, nested functions and how to get a return input if requirements are met and if they are not met.
 
 ### Project#7
+This page is Scope and Time functions. This shows local and global varibles along with IF and Else statements. Lastely it shows how to get the time in a 24 clock.
+
+### Project#8
+This page shows string methods including Concat Method, Slice Method, Number Method, Toprecision Method.
+
+### Project#9
+This page shows how to do a countdown and how to do a slideshow.
+
+### Project#10
+This page shows Loops ans arrays. It shows While loops, For loops, Const, LET and arrays with objects.
+
+### 
 
 
