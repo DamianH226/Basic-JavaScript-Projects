@@ -30,5 +30,23 @@ This is used a JQuery script to make the paragraphs different colors and also to
 In this folder we use Parse to convert string to JavaScript object. We also use the stringify to convert the JavaScript objects to string format. Lastley we use local storage to set the data as a key/value pair to be saved locally in my browser, then use the key "Name" to return it's value.
 
 ### Project#1 
+This page has an expression alert also this is Defining a function and naming it, Defining a variable and giving it a string value and Putting the value of the variable into the HTML elementFromPoint with the "Button_Text" id.
+
+### Project#2
+This page is functions, it has a button with a click function that gives the answer.
+
+### Project#3
+This page shows how to get all forms of math operators. It also gives a random number alerts that is under 100.
+
+### Project#4
+This pages shows Directionaries with classes. It also shows how the "delete" feature works.
+
+### Project#5
+This page has Coericion, comparisons and type. Shows NaN (not a number) functions, Boolean, double equals signs, tripple equal signs and logical operators.
+
+### Project#6
+This page has Ternary, operators and constructors. This shows how to get Keyword functions, nested functions and how to get a return input if requirements are met and if they are not met.
+
+### Project#7
 
 
